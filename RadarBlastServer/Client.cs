@@ -42,6 +42,22 @@ namespace RadarBlastServer
                 receiveBuffer = new byte[dataBufferSize];
 
                 stream.BeginRead(receiveBuffer, 0, dataBufferSize, ReceiveCallback, null);
+
+                ServerSend.Welcome(id, "Welcome to the server");
+            }
+
+            public void SendData(Packet _packet)
+            {
+                try
+                {
+                    if(socket != null)
+                    {
+                        stream.BeginWrite(_packet.ToArray(), 0, _packet.Length(), null, null);
+                    }
+                } catch(Exception _ex)
+                {
+                    Console.WriteLine($"Error sending data to client {id} via TCP: {_ex} ");
+                }
             }
 
             private void ReceiveCallback(IAsyncResult _result)
