@@ -6,7 +6,11 @@ namespace RadarBlastServer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Title = "Game Server";
+
+            Server.Start(50,12459);
+
+            Console.ReadKey();
         }
     }
 }

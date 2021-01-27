@@ -1,0 +1,13 @@
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.csprojAssemblyReference.cache
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.AssemblyInfoInputs.cache
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.AssemblyInfo.cs
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.csproj.CoreCompileInputs.cache
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.exe
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.deps.json
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.runtimeconfig.json
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.runtimeconfig.dev.json
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.dll
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\bin\Debug\netcoreapp3.1\RadarBlastServer.pdb
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.dll
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.pdb
+C:\Users\Estia\OneDrive\Documents\GitHub\RadarBlastServer\RadarBlastServer\obj\Debug\netcoreapp3.1\RadarBlastServer.genruntimeconfig.cache
